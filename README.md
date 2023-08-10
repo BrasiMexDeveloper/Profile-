@@ -1,9 +1,26 @@
+Name:
+Victor Villagrana
 
+Title:
+Full Stack Software Developer
 
-                                              I'm Victor Villagrana
+Location: 
+Seattle, WA
+
+Email: 
+victorsoftwareeng@gmail.com
+
+LinkedIn:
+linkedin.com/in/victor-villagrana
+
+GitHub:
+github.com/BrasiMexDeveloper
+
+                                              
 __________________________________________________________________________________________________________________________________________________________________________________                                                               
 
 Summary:
+
 Passionate and dedicated software developer with a strong foundation in full-stack web development. Experienced in designing, implementing, and maintaining robust and scalable software solutions.
 Adept at collaborating with cross-functional teams to deliver high-quality projects on time. Constantly seeking opportunities to learn and apply new technologies to solve complex problems.
 
